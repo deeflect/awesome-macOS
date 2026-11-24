@@ -150,6 +150,7 @@
 - [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
+- [Typeset.md](https://typeset.md) - Native macOS Markdown reader with live reload, Quick Look, offline Mermaid diagrams, and LaTeX math. [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon]
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
 
 
